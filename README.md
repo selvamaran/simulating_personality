@@ -23,8 +23,6 @@ This repository contains a framework designed for conducting research on persona
   - 5. Visualization
 - Customization
   - Module Descriptions
-- Contributing
-- License
 
 ## Background
 
