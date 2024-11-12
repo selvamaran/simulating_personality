@@ -51,6 +51,8 @@ git clone https://github.com/mary-silence/simulating_personality.git
 
 ## Getting Started
 
+An example of how to use the framework is provided in the main.ipynb file.
+
 1. **Initialize the Framework**
 
    Run the initialization command:
