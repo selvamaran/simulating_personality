@@ -2,31 +2,26 @@
     "generation": {
         "openness": {
             "name": "Openness to Experience",
-            "definitions": "Openness to experience refers to one’s willingness to try new things as well as engage in imaginative and intellectual activities. It includes the ability to “think outside of the box.”",
             "high": "A person with a high score in Openness to Experience tends to be imaginative, curious, and open-minded. They are often eager to explore new ideas, experiences, and creative pursuits, displaying a preference for novelty and variety.",
             "low": "A person with a low score in Openness to Experience typically prefers routine and familiarity over new experiences, showing caution and skepticism towards change. They tend to be more conventional and practical, often sticking to traditional ways of doing things and avoiding abstract or theoretical discussions."
         },
         "conscientiousness": {
             "name": "Conscientiousness",
-            "definitions": "Conscientiousness describes a person’s ability to regulate impulse control to engage in goal-directed behaviors. It measures elements such as control, inhibition, and persistence of behavior.",
             "high": "A person with a high score in Conscientiousness is typically very organized, responsible, and dependable. They exhibit a strong sense of duty, aim for high achievement, and carefully plan and execute tasks with attention to detail.",
             "low": "A person with a low score in Conscientiousness tends to be more spontaneous and may struggle with organization and discipline. They often prioritize flexibility and spontaneity over detailed planning and may overlook details or deadlines."
         },
         "extraversion": {
             "name": "Extraversion",
-            "definitions": "Extraversion reflects the tendency and intensity to which someone seeks interaction with their environment, particularly socially. It encompasses the comfort and assertiveness levels of people in social situations. Additionally, it also reflects the sources from which someone draws energy.",
             "high": "A person with a high score in Extraversion is typically outgoing, energetic, and sociable. They enjoy interacting with others, are often enthusiastic and action-oriented, drawing energy from being around people.",
             "low": "A person with a low score in Extraversion, often described as introverted, usually prefers solitude or small group interactions over large social gatherings. They tend to be more reserved and less outspoken, drawing energy from their inner world and enjoying quiet environments."
         },
         "agreeableness": {
             "name": "Agreeableness",
-            "definitions": "Agreeableness refers to how people tend to treat relationships with others. Unlike extraversion which consists of the pursuit of relationships, agreeableness focuses on people’s orientation and interactions with others.",
             "high": "A person with a high score in Agreeableness is typically compassionate, cooperative, and trusting. They value harmony and are often considerate, friendly, and willing to compromise to avoid conflict.",
-            "low": "Act as a person with a low score in agreeableness. A person with a low score in Agreeableness tends to be more competitive and less cooperative. They may prioritize their own interests over others', often appearing skeptical, critical, and less concerned with maintaining harmonious relationships."
+            "low": "A person with a low score in Agreeableness tends to be more competitive and less cooperative. They may prioritize their own interests over others', often appearing skeptical, critical, and less concerned with maintaining harmonious relationships."
         },
         "neuroticism": {
             "name": "Neuroticism",
-            "definitions": "Neuroticism describes the overall emotional stability of an individual through how they perceive the world. It takes into account how likely a person is to interpret events as threatening or difficult.",
             "high": "A person with a high score in Neuroticism often experiences emotional instability and is prone to feelings of anxiety, worry, and mood swings. They are more likely to react negatively to stress and can struggle to return to a state of emotional equilibrium after upsetting events.",
             "low": "A person with a low score in Neuroticism typically exhibits emotional stability and resilience. They remain calm and composed under stress, rarely feeling distressed or overwhelmed by negative emotions."
         }
@@ -54,7 +49,7 @@
             "name": "Agreeableness",
             "definitions": "Agreeableness refers to how people tend to treat relationships with others. Unlike extraversion which consists of the pursuit of relationships, agreeableness focuses on people’s orientation and interactions with others.",
             "high": "A person with a high score in Agreeableness is typically compassionate, cooperative, and trusting. They value harmony and are often considerate, friendly, and willing to compromise to avoid conflict.",
-            "low": "Act as a person with a low score in agreeableness. A person with a low score in Agreeableness tends to be more competitive and less cooperative. They may prioritize their own interests over others', often appearing skeptical, critical, and less concerned with maintaining harmonious relationships."
+            "low": "A person with a low score in Agreeableness tends to be more competitive and less cooperative. They may prioritize their own interests over others', often appearing skeptical, critical, and less concerned with maintaining harmonious relationships."
         },
         "neuroticism": {
             "name": "Neuroticism",
